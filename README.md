@@ -9,7 +9,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
   <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanbaltas34&theme=dark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanbaltas34&theme=dark"/>
   </p>
 
 ### Discord: Emirhan77#0001
