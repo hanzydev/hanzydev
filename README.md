@@ -12,4 +12,4 @@
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanbaltas34&theme=dark"/>
   </p>
 
-### Discord: Emirhan77#0001
+### &nbsp;Discord: Emirhan77#0001
