@@ -1,12 +1,12 @@
 ### 🛠 &nbsp;Tools And Languages 
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript&logoColor=black)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=black)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=black)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 
 ### ⚙️ &nbsp;My GitHub Analytics
   <p align="center">
