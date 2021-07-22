@@ -16,4 +16,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emirhanbaltas34&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </p>
 
-# Discord: Emirhan77#0001
+### Discord: Emirhan77#0001
