@@ -1,6 +1,7 @@
 ### 🛠 &nbsp;Tools And Languages 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
@@ -14,4 +15,4 @@
   <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanbaltas34&theme=dark"/>
   </p>
 
-### &nbsp;Discord: Emirhan77#7388
+### &nbsp;Discord: Deliever#2022
