@@ -1,4 +1,4 @@
-### 🛠 &nbsp;Tools And Languages 
+### 🛠 &nbsp;Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -14,5 +14,7 @@
   <p align="center">
   <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=dark"/>
   </p>
+
+### &nbsp;Website: [Click](https://deliever42.xyz/)
 
 ### &nbsp;Discord: Deliever#2022
