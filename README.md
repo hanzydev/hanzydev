@@ -17,4 +17,4 @@
 
 ### &nbsp;Website: [Click](https://deliever42.xyz/)
 
-### &nbsp;Discord: Deliever#2022
+### &nbsp;Discord: deliever'xd#2022
