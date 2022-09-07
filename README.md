@@ -15,6 +15,6 @@
   <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=dark"/>
   </p>
 
-### &nbsp;Website: [Click](https://deliever42.xyz/)
+### &nbsp;Website: [Click](https://deliever42.me/)
 
 ### &nbsp;Discord: deliever'xd#2022
