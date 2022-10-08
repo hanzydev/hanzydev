@@ -14,5 +14,3 @@
   <p align="center">
   <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=dark"/>
   </p>
-
-### &nbsp;Discord: deliever'xd#2022
