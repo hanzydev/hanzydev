@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center">
+<div style="text-align: center">
 
 ### 🛠 &nbsp;Technologies
 
