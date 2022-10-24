@@ -23,10 +23,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔨 &nbsp;Most Used Languages
+### 📈 &nbsp;Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react)
 
-### 🔨 &nbsp;Github Stats
+### 📊 &nbsp;Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deliever42&show_icons=true&theme=react)
