@@ -25,6 +25,8 @@
 
 ### 🔨 &nbsp;Most Used Languages
 
-<p align="center">
-    <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react"/>
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react)
+
+### 🔨 &nbsp;Github Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=deliever42&show_icons=true&theme=react)
