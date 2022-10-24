@@ -24,5 +24,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
   <p align="center">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=dark"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react"/>
   </p>
