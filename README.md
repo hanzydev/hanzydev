@@ -23,6 +23,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  <p align="center">
-  <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=city_lights"/>
-  </p>
+### 🔨 &nbsp;Most Used Languages
+
+<p align="center">
+    <img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react"/>
+</p>
