@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/python-f5d95f.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-0098d7.svg?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-f000ad.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
