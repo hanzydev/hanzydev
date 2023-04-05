@@ -28,8 +28,8 @@
 
 ### 📈 &nbsp;Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliever42&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzydev&theme=react)
 
 ### 📊 &nbsp;Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=deliever42&show_icons=true&theme=react)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hanzydev&show_icons=true&theme=react)
