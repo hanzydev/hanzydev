@@ -31,6 +31,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzydev&theme=react)
 
-### 📊 &nbsp;Github Stats
+### 📊 &nbsp; Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hanzydev&show_icons=true&theme=react)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
