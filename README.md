@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 504 hrs 46 mins █████████▓░░░░░░░░░░░░░░░   38.59 %
-Vue.js                     330 hrs 52 mins ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
+TypeScript                 505 hrs 5 mins  █████████▓░░░░░░░░░░░░░░░   38.59 %
+Vue.js                     331 hrs 4 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
 JavaScript                 152 hrs 18 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
 Svelte                     112 hrs 52 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JSON                       76 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JSON                       76 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
