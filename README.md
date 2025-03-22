@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 586 hrs 18 mins █████████▒░░░░░░░░░░░░░░░   36.78 %
+TypeScript                 586 hrs 18 mins █████████▒░░░░░░░░░░░░░░░   36.77 %
 Vue.js                     464 hrs 21 mins ███████▒░░░░░░░░░░░░░░░░░   29.13 %
 JavaScript                 166 hrs 9 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 Svelte                     119 hrs 42 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
